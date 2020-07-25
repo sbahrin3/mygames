@@ -4,6 +4,7 @@ i:explode.png:98872:image/png
 i:explosion.png:1007843:image/png
 i:falling-bombs.png:162880:image/png
 i:mines.png:626092:image/png
+i:missile_sheet.png:26623:image/png
 i:mountain1.png:57888:image/png
 i:mountain2.png:67889:image/png
 i:mountain3.png:1631:image/png
