@@ -1,5 +1,7 @@
 d:assets:0:application/unknown
+a:alert.mp3:36567:application/unknown
 i:badlogic.jpg:68465:image/jpeg
+a:bombfall.mp3:20534:application/unknown
 i:explode.png:98872:image/png
 i:explosion.png:1007843:image/png
 i:falling-bombs.png:162880:image/png
@@ -16,6 +18,7 @@ i:text.png:8879:image/png
 i:texture.png:18539:image/png
 i:texture1.png:15982:image/png
 i:title_ship.png:12210:image/png
+a:xplosion.mp3:121067:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5162:application/unknown
