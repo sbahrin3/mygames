@@ -2,9 +2,11 @@ d:assets:0:application/unknown
 a:alert.mp3:36567:application/unknown
 i:badlogic.jpg:68465:image/jpeg
 a:bombfall.mp3:20534:application/unknown
+i:ex.png:67176:image/png
 i:explode.png:98872:image/png
 i:explosion.png:1007843:image/png
 i:falling-bombs.png:162880:image/png
+a:fireball.mp3:32256:application/unknown
 i:mines.png:626092:image/png
 i:missile_sheet.png:26623:image/png
 i:mountain1.png:57888:image/png
